@@ -1,0 +1,41 @@
+{
+  "name": "doctree-cli",
+  "version": "1.0.1",
+  "main": "dist/index.js",
+  "bin": {
+    "doctree": "./dist/index.js"
+  },
+  "publisher": "terfabinda",
+  "icon": "doctree.png",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js"
+  },
+  "keywords": [
+  "readme",
+  "tree",
+  "project-structure",
+  "directory-tree",
+  "fs-tree",
+  "doc-generator",
+  "documentation",
+  "cli",
+  "npx",
+  "vscode-extension",
+  "dev-tools",
+  "developer-utilities",
+  "markdown",
+  "folder-structure",
+  "code-documentation"
+],
+  "author": "Terfa Binda",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^24.1.0",
+    "typescript": "^5.9.2"
+  },
+  "dependencies": {
+    "undici-types": "^7.8.0"
+  },
+  "description": "Generate clean project structure trees for README.md from the command line. Works anywhere — no editor needed. Auto-creates README, supports custom ignores, and saves full structure to fs-full.md."
+}

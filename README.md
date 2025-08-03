@@ -74,7 +74,7 @@ Clean, professional, and ready to share.
 
 ## 🔄 Powered by the VS Code Extension
 
-This CLI shares the same engine as the **[DocTree VS Code Extension](https://marketplace.visualstudio.com/items?itemName=your-publisher.doctree)** — now available **outside the editor**.
+This CLI shares the same engine as the **[DocTree VS Code Extension](https://marketplace.visualstudio.com/items?itemName=terfabinda.doctree)** — now available **outside the editor**.
 
 👉 Use the extension for in-editor speed  
 👉 Use the CLI for universal access

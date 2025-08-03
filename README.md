@@ -110,7 +110,7 @@ We welcome contributions!
 
 ### How to Contribute
 
-1. Fork the repo: [https://github.com/your-username/doctree](https://github.com/terfabinda/doctree-cli)
+1. Fork the repo: [https://github.com/terfabinda/doctree-cli](https://github.com/terfabinda/doctree-cli)
 2. Create a feature branch
 3. Commit your changes
 4. Push and open a PR

@@ -89,6 +89,16 @@ This CLI shares the same engine as the **[DocTree VS Code Extension](https://mar
 
 ---
 
+## 🐛 Known Issues
+
+- May fail if the project has permission restrictions (e.g., system folders)
+- Very deeply nested folders may cause slight delays (rare)
+- On some Windows systems, long paths may not resolve correctly (Windows path limit)
+
+> We’re actively working to improve performance and compatibility.
+
+---
+
 ## 📦 Publish & Contribute
 
 This package is open-source and published on npm:
